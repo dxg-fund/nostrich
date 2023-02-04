@@ -1,1 +1,1 @@
-# a nostr client
+nothing here
